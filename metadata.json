@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense",
+  "description": "Smart Expense & Budget Manager with AI Insights, budget tracking, category limits, and visual financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
